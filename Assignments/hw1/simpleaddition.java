@@ -1,3 +1,5 @@
+package Assignments.hw1;
+
 import java.math.BigInteger;
 import java.util.Scanner;
 
